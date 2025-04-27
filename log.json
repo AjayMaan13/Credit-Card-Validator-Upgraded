@@ -1,0 +1,12 @@
+{"timestamp":"Sun Apr 20 13:28:22 2025\n","message":"Exited program."}
+{"timestamp":"Sun Apr 20 13:28:44 2025\n","message":"Invalid card length entered."}
+{"timestamp":"Sun Apr 20 13:28:55 2025\n","message":"Card validated and saved (encrypted)."}
+{"timestamp":"Sun Apr 20 13:29:12 2025\n","message":"Card BIN lookup via API."}
+{"timestamp":"Sun Apr 20 13:29:48 2025\n","message":"Added new card."}
+{"timestamp":"Sun Apr 20 13:29:59 2025\n","message":"Viewed saved cards."}
+{"timestamp":"Sun Apr 20 17:07:39 2025\n","message":"Invalid card length entered."}
+{"timestamp":"Sun Apr 20 17:08:03 2025\n","message":"Checksum failed."}
+{"timestamp":"Sun Apr 20 17:08:47 2025\n","message":"Checksum failed."}
+{"timestamp":"Sun Apr 20 17:12:04 2025\n","message":"Card validated and saved (encrypted)."}
+{"timestamp":"Sun Apr 20 17:12:10 2025\n","message":"Card BIN lookup via API."}
+{"timestamp":"Sun Apr 20 17:24:55 2025\n","message":"Exited program."}
